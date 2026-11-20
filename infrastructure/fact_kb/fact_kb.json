@@ -1,0 +1,29 @@
+{
+  "capitals": {
+    "italy": "Rome",
+    "france": "Paris",
+    "spain": "Madrid",
+    "germany": "Berlin",
+    "united kingdom": "London",
+    "usa": "Washington",
+    "canada": "Ottawa"
+  },
+  "chemical_symbols": {
+    "mercury": "Hg",
+    "gold": "Au",
+    "iron": "Fe",
+    "silver": "Ag",
+    "copper": "Cu",
+    "lead": "Pb"
+  },
+  "atomic_numbers": {
+    "gold": "79",
+    "iron": "26",
+    "silver": "47",
+    "copper": "29"
+  },
+  "painters": {
+    "the scream": "Edvard Munch",
+    "mona lisa": "Leonardo da Vinci"
+  }
+}
